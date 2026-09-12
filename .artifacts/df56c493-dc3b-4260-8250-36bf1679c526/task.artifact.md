@@ -1,0 +1,19 @@
+- [x] Actualizar `libs.versions.toml` con dependencias de Compose
+- [x] Configurar `app/build.gradle.kts` para habilitar Compose
+- [x] Crear archivos de tema (`Color.kt`, `Theme.kt`, `Type.kt`)
+- [x] Implementar `MainActivity.kt` con la interfaz solicitada
+- [x] Actualizar `AndroidManifest.xml` para registrar `MainActivity`
+- [x] Sincronizar proyecto y verificar compilación
+- [x] Implementar `LoginScreen.kt`
+- [x] Integrar `LoginScreen` en `MainActivity.kt`
+- [x] Implementar `RegisterScreen.kt`
+- [x] Integrar `RegisterScreen` en `MainActivity.kt` y `LoginScreen.kt`
+- [x] Implementar `ForgotScreen.kt`
+- [x] Integrar `ForgotScreen` en `MainActivity.kt` y `LoginScreen.kt`
+- [x] Verificar diseño con Previews
+- [x] Definir modelo `ChatMessage`
+- [x] Implementar `ChatScreen.kt`
+- [x] Integrar `ChatScreen` en `MainActivity.kt`
+- [x] Implementar `HomeScreen.kt`
+- [x] Integrar `HomeScreen` en `MainActivity.kt`
+- [x] Verificar diseño del dashboard con Previews
